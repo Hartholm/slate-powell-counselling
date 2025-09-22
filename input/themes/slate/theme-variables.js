@@ -69,9 +69,9 @@ var generateThemeVariables = function(params) {
         weight: '400 700',
         hasItalic: true
       },
-      'buenosaries': {
-        name: 'Buenos Aries',
-        family: '\'Buenos Aries\', serif',
+      'rethinksans': {
+        name: 'Rethink Sans',
+        family: '\'Rethink Sans\', sans-serif',
         weight: '100 300 400 500 600 700 900',
         hasItalic: true
       },
